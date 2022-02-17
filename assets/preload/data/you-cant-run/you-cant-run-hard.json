@@ -49,7 +49,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"sans-eye"
+						"senpai"
 					],
 					[
 						14357.1428571429,
@@ -70,7 +70,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"sans"
+						"dad"
 					],
 					[
 						14785.7142857143,
@@ -6527,7 +6527,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "nobody",
+		"player2": "dad",
 		"player3": "black",
 		"song": "you-cant-run",
 		"arrowSkin": "NOTE_assets",
