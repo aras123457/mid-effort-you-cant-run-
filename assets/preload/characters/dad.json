@@ -2,57 +2,57 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
+				159,
+				-105
 			],
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "NewPhase2Sonic Left instance",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				-15,
+				-57
 			],
 			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
+			"name": "NewPhase2Sonic Down instance",
 			"indices": []
 		},
 		{
 			"offsets": [
 				-6,
-				50
+				60
 			],
 			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"name": "NewPhase2Sonic Up instance ",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				27
+				42,
+				-127
 			],
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "NewPhase2Sonic Right instance",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-18,
+				70
 			],
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Dad idle dance",
+			"name": "NewPhase2Sonic Idle instance",
 			"indices": []
 		},
 		{
@@ -60,74 +60,10 @@
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle-loop",
-			"indices": [
-				10,
-				11,
-				12,
-				12
-			],
-			"name": "Dad idle dance"
-		},
-		{
-			"offsets": [
-				-9,
-				10
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
-			"name": "Dad Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				0,
-				27
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"indices": [
-				15,
-				16,
-				17,
-				18
-			],
-			"name": "Dad Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				-6,
-				50
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singUP-loop",
-			"indices": [
-				56,
-				57,
-				58,
-				59
-			],
-			"name": "Dad Sing Note UP"
-		},
-		{
 			"loop": false,
-			"offsets": [
-				140,
-				-100
-			],
-			"anim": "hey",
+			"anim": "laugh",
 			"fps": 24,
-			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"name": "NewPhase2Sonic Laugh instance",
 			"indices": []
 		}
 	],
@@ -137,16 +73,16 @@
 		0,
 		0
 	],
-	"healthicon": "dad",
+	"healthicon": "lmaowhythisdoeslooksofunny",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		0,
+		19,
+		102
 	],
 	"camera_position": [
 		0,
-		0
+		50
 	],
 	"sing_duration": 6.1,
 	"scale": 1
